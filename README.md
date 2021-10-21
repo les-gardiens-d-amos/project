@@ -87,11 +87,12 @@ Vous êtes libre d'ajuster les fréquences pour rendre le jeu le plus fun possib
 ### Méthodologie
 
 
-
 Au dela du jeu, l'objectif est de travailler en équipe sur un projet conséquent et de façon pro ! 
 
-On travaillera donc en cycle agile, avec des outils pro (Git/Github/Jira/Frameworks) et en implémentant des systèmes de bug tracking ainsi qu'une page status.
+On travaillera donc en cycle agile, avec des outils pro (Git / Github / Jira / Frameworks) et en implémentant des systèmes de bug tracking ainsi qu'une page status.
 
 
 
 ### Vision d'ensemble
+
+
