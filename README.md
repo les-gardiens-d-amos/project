@@ -95,4 +95,43 @@ On travaillera donc en cycle agile, avec des outils pro (Git / Github / Jira / F
 
 ### Vision d'ensemble
 
+Smart : Smartphone
+Happy : API
+Spotless : Status
+Dreamy : Site vitrine
+
+
+### Première itération
+
+Réalisation d'une app mobile :
+
+
+
+- Dépôt Smart
+- Maquettage en équipe
+- Hooks vs Redux vs Mobx ?
+- Clarifai 
+- Framework test (choix + implémentation)
+- Système de Connexion (Supabase + JWT)
+- Crop de l'image 
+- Intégrer un viseur
+- Qualité de l'image
+- Déploiement sur Expo
+- Test des 8 animaux
+- Game assets pour les 8 animaux
+- Supabase :
+  - JWT
+  - Catch (https://docs.expo.dev/versions/latest/sdk/location/)
+    - long
+    - lat
+    - date
+    - altitude
+    - accuracy
+  - Amos :
+    - type
+    - img_url
+    - nom
+    - confiance
+
+
 
