@@ -1,5 +1,4 @@
 # Projet
----
 
 Vous trouverez ici toutes les ressources généraliste sur le projet !
 
