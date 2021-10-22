@@ -6,7 +6,7 @@ GdÂ est un jeu d'aventure mobile dans lequel vous incarnez un•e Gardien•ne 
 
 ### But du jeu
 
-Dans un monde ou les espèces se font de plus en plus rare, votre rôle sera de les capturer afin de préserver le futur des espèces. Il faudra donc parcourir vos forêts et vos villes avec votre **Catchâmos** (smartphone) afin de remplir votre **Arcâm** (Pokédex) !
+Dans un monde ou les espèces se font de plus en plus rare, votre rôle sera de les capturer afin de préserver le futur des espèces. Il faudra donc parcourir vos forêts et vos villes avec votre **Catchâmos** (smartphone) afin de remplir votre **Archâmos** (Pokédex) !
 
 ### Système de capture
 
@@ -14,7 +14,7 @@ Les Âmos sont des êtres sensibles et vos actions influent leurs sentiments ! L
 
 Toutes les Âmos ont quatre types d'actions possibles :
 
-##### S'affirmer :
+##### Intimidation :
 
 *Permet à l'Âmos de prendre confiance (augmente les points de dominance et réduit son stress).*
 
@@ -27,7 +27,7 @@ La distance influe aussi :
 
   
 
-##### Freezer :
+##### Stupéfaction :
 
 *Plus une Âmos est dominant, plus elle risque de vous "freezer".*
 
@@ -39,9 +39,16 @@ Fréquence de l'attaque en fonction de la dominance :
 - `31-55` (assez fréquent) 
 - `56+` (très fréquent)
 
+##### Attaque :
+
+*Cette attaque est différente pour chaque Âmos, plus vous êtes proche de lui et plus le risque d'attaque spéciale est grande.* 
+
+Si une Âmos atteint un score de dominance de `100 points`, cela déclenche automatiquement une attaque magique.
+
+Vous êtes libre d'ajuster les fréquences pour rendre le jeu le plus fun possible !
 
 
-##### S'éloigner :
+##### Fuite :
 
 En début de **rencontre** une Âmos se situe **entre 5m et 10m** de distance. S'il vient à s'éloigner à plus de 12m alors l'Âmos disparait sans que vous puissiez la rattraper.
 
@@ -58,17 +65,18 @@ Fréquence de l'éloignement en fonction du stress :
 
 - `75-84` (assez fréquent)
 
-- `85+` (jamais - devient très aggressif - augmente le risque d'attaque magique)
+- `85+` (jamais - devient très aggressif - augmente le risque d'attaque)
 
   
 
-##### Attaquer :
+Prenons l'exemple d'un chat, les quatres actions types peuvent être :
 
-*Cette attaque est différente pour chaque Âmos, plus vous êtes proche de lui et plus le risque d'attaque spéciale est grande.* 
+- Intimidation : Feulement rauque
+- Stupéfaction : Ronronnement hypnotique
+- Attaque : Dix huit Griffes
+- Fuite : 
 
-Si une Âmos atteint un score de dominance de `100 points`, cela déclenche automatiquement une attaque magique.
 
-Vous êtes libre d'ajuster les fréquences pour rendre le jeu le plus fun possible !
 
 ### Les Caracteristiques
 
