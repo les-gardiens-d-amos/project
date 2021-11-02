@@ -82,14 +82,19 @@ Prenons l'exemple d'un chat, les quatres actions types peuvent être :
 
 |   Âmos   | Dom (10-80 / 100) | Stress (10-70 / 100) | Vit (2-100) |   Freezer    |      Attaque      |
 | :------: | :---------------: | :------------------: | :---------: | :----------: | :---------------: |
-|   Chat   |       40-60       |        30-40         |    25-35    | Ronronnement | Griffure profonde |
-|  Chien   |       30-65       |        20-30         |    25-40    |  Aboiement   |  Morsure enragée  |
-| Escargot |        10         |          40          |      2      | Bave gluante |   Bave toxique    |
-| Mouette  |        22         |          50          |    35-45    |              |    Coup de bec    |
-|  Goelan  |        45         |          40          |    35-45    |              |      Assault      |
-| Cormoran |        ...        |         ...          |     ...     |              |                   |
-| Ecureil  |        ...        |         ...          |     ...     |              |                   |
-|  Pigeon  |        ...        |         ...          |     ...     |              |                   |
+|   Chat   |        50         |          28          |      30     | Ronronnement | Griffure profonde |
+|  Chien   |        45         |          25          |      30     |  Aboiement   |  Morsure enragée  |
+| Escargot |        10         |          18          |      2      | Bave gluante |   Bave toxique    |
+| Mouette  |        22         |          50          |      40     |              |    Coup de bec    |
+|  Goelan  |        45         |          40          |      40     |              |      Assault      |
+| Cormoran |        25         |          24          |      37     |              |  Plongeon furtif  |
+| Ecureil  |        14         |          62          |      15     |              |      Morsure      |
+|  Pigeon  |        13         |          36          |      45     |              |   Fiente acide    |
+|  Poule   |        18         |          44          |      13     |              |    Bec pointu     |
+|  Canard  |        18         |          32          |      55     |              |      Pinçon       |
+|  Cochon  |        37         |          19          |      21     |              |      Charge       |
+|  Vache   |        23         |          48          |      25     |              |    Piétinement    |
+|  Mouton  |        29         |          36          |      24     |              |      Morsure      |
 
 
 ### Méthodologie
