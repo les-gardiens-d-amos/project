@@ -67,15 +67,6 @@ Fréquence de l'éloignement en fonction du stress :
 
 - `85+` (jamais - devient très aggressif - augmente le risque d'attaque)
 
-  
-
-Prenons l'exemple d'un chat, les quatres actions types peuvent être :
-
-- Intimidation : Feulement rauque
-- Stupéfaction : Ronronnement hypnotique
-- Attaque : Dix huit Griffes
-- Fuite : 
-
 
 
 ### Les Caracteristiques
